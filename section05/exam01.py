@@ -21,3 +21,4 @@ elif p >= 60:
     grade = 'D'
 
 print(f'점수는 {p}점이고, 학점은 {grade}학점입니다.')
+
